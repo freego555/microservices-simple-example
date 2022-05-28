@@ -14,5 +14,4 @@ spec:
     spec:
       containers:
         - name: posts
-          image: freego555/posts:0.0.5
-          imagePullPolicy: Never
+          image: freego555/posts
